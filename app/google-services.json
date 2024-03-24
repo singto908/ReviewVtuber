@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "40617733973",
+    "firebase_url": "https://sell-man-49f28-default-rtdb.firebaseio.com",
+    "project_id": "sell-man-49f28",
+    "storage_bucket": "sell-man-49f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40617733973:android:ca9ec83c711399def689dc",
+        "android_client_info": {
+          "package_name": "com.example.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARc-ViGfl-qejbMRah63ccidXqDf1MOgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40617733973:android:66dff083f3942e43f689dc",
+        "android_client_info": {
+          "package_name": "com.example.sellman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARc-ViGfl-qejbMRah63ccidXqDf1MOgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
